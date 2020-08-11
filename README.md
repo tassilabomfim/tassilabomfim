@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá :dizzy: :dizzy:
 
-<!--
-**tassilabomfim/tassilabomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu sou a Tassila ✨ ✨ estou me formando em back and!
+![Foto Tai](Imagens/img.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Trabalho com marketing e sou autônoma
+- 🌱 Atualmente aluna da {Reprograma}
+- 💬 
+- 📫 Linkedin: https://br.linkedin.com/in/tassilabomfim
+     Intagram: https://www.instagram.com/tassilabomfim/
+- 😄 Atualmente moro em Salvador
+- ⚡ 
 -->
