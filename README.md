@@ -1,7 +1,7 @@
 ### Olá :dizzy: :dizzy:
 
 
-Eu sou a Tassila ✨ ✨ estou me formando em back and!
+Eu sou a Tassila ✨ ✨ estou me formando em back-end!
 ![Foto Tai](Imagens/img.jpg)
 
 - 🔭 Trabalho com marketing e sou autônoma
